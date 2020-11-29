@@ -1,0 +1,12 @@
+# @format
+
+version: "3.1"
+
+services:
+  dart:
+    container_name: 'dart-stock'
+    build:
+      dart_program
+
+
+
